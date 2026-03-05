@@ -20,5 +20,4 @@ The dashboard provides insights into sales performance using different visualiza
 - Dashboard Design
 
 ## Dashboard Preview
-![Sales Dashboard](sales report 2019.png
-)
+![Sales Dashboard](sales report 2019.png)
